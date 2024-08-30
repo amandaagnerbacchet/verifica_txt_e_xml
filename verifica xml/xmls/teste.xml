@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contatos>
+    <contato>
+        <nome>João da Silva</nome>
+        <email>joao.silva@example.com</email>
+        <telefone>(11) 98765-4321</telefone>
+        <cnpj>12.345.678/0001-90</cnpj>
+    </contato>
+</contatos>
